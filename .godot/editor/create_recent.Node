@@ -1,0 +1,7 @@
+AnimationPlayer
+AudioStreamPlayer2D
+Node
+Label
+RayCast2D
+CollisionShape2D
+AnimatedSprite2D

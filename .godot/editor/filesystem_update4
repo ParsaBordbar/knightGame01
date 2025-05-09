@@ -1,0 +1,6 @@
+res://scences/game.tscn
+res://scences/slime.tscn
+res://scences/player.tscn
+res://scences/coin.tscn
+res://scripts/coin.gd
+res://default_bus_layout.tres
